@@ -1,10 +1,11 @@
 ### Vurv78 // README.md
 
 - 🔭 Currently trying to learn rust
+- Bad coder
 
 ![Vercel Stats](https://github-readme-stats.vercel.app/api?username=Vurv78&show_icons=true&theme=tokyonight)
 
-## Repos I actively work on:
+## Projects I actively work on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions)](https://github.com/Vurv78/VExtensions)
 
