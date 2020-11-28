@@ -1,16 +1,16 @@
-### Hi there 👋
+### Vurv78 // README.md
+
+- 🔭 Currently trying to learn rust
+
+![Vercel Stats](https://github-readme-stats.vercel.app/api?username=Vurv78&show_icons=true&theme=tokyonight)
+
+## Repos I actively work on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions)](https://github.com/Vurv78/VExtensions)
 
 <!--
-**Vurv78/Vurv78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Lol, guess private repos don't get shown
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&layout=compact)
 -->
+
+Add me on Discord if you need anything (363590853140152321)
