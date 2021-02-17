@@ -5,7 +5,7 @@
 
 ### Cool Projects
 [![Autorun](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun)](https://github.com/Vurv78/Autorun)
-[![Webserver](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Webserver)](https://github.com/Vurv78/Webserver)
+[![Website](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Website)](https://github.com/Vurv78/Website)
 
 ### Useless Stats
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&layout=compact)
