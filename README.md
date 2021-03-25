@@ -1,5 +1,3 @@
-[![Discord](https://img.shields.io/badge/Discord-Vurv-blue?logo=Discord])](https://discordapp.com/users/363590853140152321)
-
 ### Active Projects
 [![VExtensions](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions)](https://github.com/Vurv78/VExtensions)
 
