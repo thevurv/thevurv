@@ -8,7 +8,7 @@
 [![SFHaxe](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=SFHaxe)](https://github.com/Vurv78/SFHaxe)
 
 ### Useless Stats
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&layout=compact)
-![General Stats](https://github-readme-stats.vercel.app/api?username=Vurv78&show_icons=true)
+![](./generated/overview.svg)
+![](./generated/languages.svg)
 
-https://coderstats.netlify.app/user?name=Vurv78
+<a href="https://github.com/jstrieb/github-stats"> Stats created by jstrieb/github-stats </a>

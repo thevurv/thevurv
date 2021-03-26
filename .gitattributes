@@ -1,0 +1,4 @@
+data export-ignore
+generated export-ignore
+
+*.py linguist-vendored
