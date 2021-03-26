@@ -8,7 +8,7 @@
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Website)](https://github.com/Vurv78/Website)
 
 ### Github Statistics
-![](./generated/overview.svg)
-![](./generated/languages.svg)
+![Overview](https://github.com/Vurv78/Vurv78/raw/master/generated/overview.svg)
+![Languages](https://github.com/Vurv78/Vurv78/raw/master/generated/languages.svg)
 
-<a href="https://github.com/jstrieb/github-stats"> Stats created by jstrieb/github-stats </a>
+<a href="https://github.com/jstrieb/github-stats"> Stats created with jstrieb/github-stats </a>
