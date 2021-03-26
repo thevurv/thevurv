@@ -7,7 +7,7 @@
 [![Autorun-C++](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun)](https://github.com/Vurv78/Autorun)
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Website)](https://github.com/Vurv78/Website)
 
-### Useless Stats
+### Github Statistics
 ![](./generated/overview.svg)
 ![](./generated/languages.svg)
 
