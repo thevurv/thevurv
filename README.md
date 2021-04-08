@@ -14,5 +14,5 @@
 <a href="https://github.com/jstrieb/github-stats"> Stats created with jstrieb/github-stats </a>
 
 ### Chat
-Since I have too many small repos, just decided to make one discord (Until the repos end up needing their own spaces)
+Since I have too many small repos, just decided to make one discord (Until the repos end up needing their own spaces)  
 [![github/Vurv78](https://discordapp.com/api/guilds/824727565948157963/widget.png?style=banner2)](https://discord.gg/epJFC6cNsw)
