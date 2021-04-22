@@ -2,10 +2,11 @@
 [![VExtensions](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions)](https://github.com/Vurv78/VExtensions)
 [![Autorun-rs](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun-rs)](https://github.com/Vurv78/Autorun-rs)
 [![SFHaxe](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=SFHaxe)](https://github.com/Vurv78/SFHaxe)
+[![rglua](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=rglua)](https://github.com/Vurv78/rglua)
 
 ### Other Projects
-[![Autorun-C++](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun)](https://github.com/Vurv78/Autorun)
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Website)](https://github.com/Vurv78/Website)
+[![gm_rhai](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=gm_rhai)](https://github.com/Vurv78/gm_rhai)
 
 ### Github Statistics
 ![Overview](https://github.com/Vurv78/Vurv78/raw/main/generated/overview.svg)
