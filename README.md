@@ -7,6 +7,7 @@
 ### Other Projects
 [![Website](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Website)](https://github.com/Vurv78/Website)
 [![gm_rhai](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=gm_rhai)](https://github.com/Vurv78/gm_rhai)
+[![WebAudio](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=WebAudio)](https://github.com/Vurv78/WebAudio)
 
 ### Github Statistics
 ![Overview](https://github.com/Vurv78/Vurv78/raw/main/generated/overview.svg)
