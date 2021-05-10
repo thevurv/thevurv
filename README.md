@@ -1,6 +1,5 @@
 ### Active Projects
 [![WebAudio](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=WebAudio)](https://github.com/Vurv78/WebAudio)
-[![VExtensions](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions)](https://github.com/Vurv78/VExtensions)
 [![Autorun-rs](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun-rs)](https://github.com/Vurv78/Autorun-rs)
 [![SFHaxe](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=SFHaxe)](https://github.com/Vurv78/SFHaxe)
 [![rglua](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=rglua)](https://github.com/Vurv78/rglua)
