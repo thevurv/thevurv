@@ -1,4 +1,2 @@
-data export-ignore
-generated export-ignore
-
-*.py linguist-vendored
+# Auto detect text files and perform LF normalization
+* text=auto

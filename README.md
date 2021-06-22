@@ -1,10 +1,8 @@
 ## [![github/Vurv78](https://img.shields.io/discord/824727565948157963?color=7289DA&label=chat&logo=discord)](https://discord.gg/epJFC6cNsw)
 
 ## Stats
-![Overview](https://github.com/Vurv78/Vurv78/raw/main/generated/overview.svg)
-![Languages](https://github.com/Vurv78/Vurv78/raw/main/generated/languages.svg)
-
-<!-- [Stats created with jstrieb/github-stats](https://github.com/jstrieb/github-stats) -->
+![Overview](https://github-readme-stats.vercel.app/api?username=Vurv78&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&langs_count=8&layout=compact)
 
 ## Projects
 [![WebAudio](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=WebAudio)](https://github.com/Vurv78/WebAudio)
