@@ -1,14 +1,50 @@
-## Stats [![github/Vurv78](https://img.shields.io/discord/824727565948157963?label=Discord&logo=discord&logoColor=ffffff&labelColor=7289DA&color=2c2f33)](https://discord.gg/yXKMt2XUXm)
+<h2 align="center"> Stats </h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&amp;langs_count=8&amp;layout=compact&amp;theme=light&amp;hide_border=true&amp;hide=golo&amp;bg_color=0000&amp;text_color=666666" alt="Languages">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vurv78&langs_count=8&layout=compact&theme=light&hide_border=true&hide=golo&bg_color=0000&text_color=666666)
-![Overview](https://github-readme-stats.vercel.app/api?username=Vurv78&show_icons=true&theme=light&card_width=50&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&bg_color=0000&text_color=666666)  
+  <img src="https://github-readme-stats.vercel.app/api?username=Vurv78&amp;show_icons=true&amp;theme=light&amp;card_width=50&amp;include_all_commits=true&amp;count_private=true&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Overview">
+</p>
 
-## Projects
-[![Autorun-rs](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Autorun-rs&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/Autorun-rs)
-[![WebAudio](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=WebAudio&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/WebAudio)
-[![vurv78.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=vurv78.github.io&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/vurv78.github.io)
-[![bass-rs](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=bass-rs&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/bass-rs)
-[![Safety](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Safety&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/Safety)
-[![SFHaxe](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=SFHaxe&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/SFHaxe)
-[![VExtensions](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=VExtensions&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/VExtensions)
-[![Nodebreak](https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&repo=Nodebreak&hide_border=true&bg_color=0000&text_color=666666)](https://github.com/Vurv78/NodeBreak)
+
+<h2 align="center"> Projects </h2>
+<p align="center">
+  <a href="https://github.com/Vurv78/Autorun-rs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Autorun-rs&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Autorun-rs">
+  </a>
+
+  <a href="https://github.com/Vurv78/WebAudio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=WebAudio&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="WebAudio">
+  </a>
+
+  <a href="https://github.com/Vurv78/vurv78.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=vurv78.github.io&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="vurv78.github.io">
+  </a>
+
+  <a href="https://github.com/Vurv78/ExpressionScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=ExpressionScript&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="ExpressionScript">
+  </a>
+
+  <a href="https://github.com/Vurv78/Safety">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Safety&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Safety">
+  </a>
+
+  <a href="https://github.com/Vurv78/VExtensions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=VExtensions&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="VExtensions">
+  </a>
+</p>
+
+
+#
+<p align="center">
+  <a href="https://discord.gg/yXKMt2XUXm">
+    <img src="https://img.shields.io/discord/824727565948157963?label=Discord&amp;logo=discord&amp;logoColor=ffffff&amp;labelColor=7289DA&amp;color=2c2f33" alt="github/Vurv78"/>
+  </a>
+
+  <a align="center" href="https://donate.lol/btc/bc1qs339myy5u2cpauvm3xf79y40u4gfp40pzc6md32vzn6zr3zkdrdspnfy4d">
+    <img src="https://img.shields.io/badge/donate.lol-%3C3-red?logo=bitcoin" alt="Donate/Commission">
+  </a>
+
+  <a href="https://github.com/Vurv78?tab=repositories&amp;q=&amp;type=source&amp;language=&amp;sort=stargazers">
+    <img src="https://img.shields.io/github/stars/Vurv78?affiliations=OWNER&amp;color=yellow&amp;label=Stars&amp;logo=Github&amp;style=flat" alt="Stars">
+  </a>
+</p>
