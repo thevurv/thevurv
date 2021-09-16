@@ -16,8 +16,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=WebAudio&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="WebAudio">
   </a>
 
-  <a href="https://github.com/Vurv78/gm_binpkg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=gm_binpkg&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="gm_binpkg">
+  <a href="https://github.com/Vurv78/gmbm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=gmbm&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="gmbm">
   </a>
 
   <a href="https://github.com/Vurv78/Safety">
