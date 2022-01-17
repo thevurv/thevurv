@@ -24,8 +24,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Safety&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Safety">
   </a>
 
-  <a href="https://github.com/Vurv78/ExpressionScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=ExpressionScript&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="ExpressionScript">
+  <a href="https://github.com/Vurv78/Expressive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Expressive&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Expressive">
   </a>
 
   <a href="https://github.com/Vurv78/vurv78.github.io">
