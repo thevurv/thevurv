@@ -47,7 +47,4 @@
   <a href="https://github.com/Vurv78?tab=repositories&amp;q=&amp;type=source&amp;language=&amp;sort=stargazers">
     <img src="https://img.shields.io/github/stars/Vurv78?affiliations=OWNER&amp;color=yellow&amp;label=Stars&amp;logo=Github&amp;style=flat" alt="Stars">
   </a>
-  <a href="">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=vurv78&left_color=gray&right_color=blue" alt="visitors">
-  </a>
 </p>
