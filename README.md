@@ -15,9 +15,9 @@
   <a href="https://github.com/Vurv78/WebAudio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=WebAudio&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="WebAudio">
   </a>
-
-  <a href="https://github.com/Vurv78/gmbm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=gmbm&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="gmbm">
+  
+  <a href="https://github.com/Vurv78/rglua">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=rglua&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="rglua">
   </a>
 
   <a href="https://github.com/Vurv78/Safety">
@@ -28,8 +28,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Expressive&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Expressive">
   </a>
 
-  <a href="https://github.com/Vurv78/vurv78.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=vurv78.github.io&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="vurv78.github.io">
+  <a href="https://github.com/Vurv78/glink">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=glink&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="glink">
   </a>
 </p>
 
