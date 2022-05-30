@@ -40,10 +40,6 @@
     <img src="https://img.shields.io/discord/824727565948157963?label=Discord&amp;logo=discord&amp;logoColor=ffffff&amp;labelColor=7289DA&amp;color=2c2f33" alt="github/Vurv78"/>
   </a>
 
-  <a align="center" href="https://donate.lol/btc/bc1qs339myy5u2cpauvm3xf79y40u4gfp40pzc6md32vzn6zr3zkdrdspnfy4d">
-    <img src="https://img.shields.io/badge/donate.lol-%3C3-red?logo=bitcoin" alt="Donate/Commission">
-  </a>
-
   <a href="https://github.com/Vurv78?tab=repositories&amp;q=&amp;type=source&amp;language=&amp;sort=stargazers">
     <img src="https://img.shields.io/github/stars/Vurv78?affiliations=OWNER&amp;color=yellow&amp;label=Stars&amp;logo=Github&amp;style=flat" alt="Stars">
   </a>
