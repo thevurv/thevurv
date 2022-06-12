@@ -28,8 +28,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=Expressive&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="Expressive">
   </a>
 
-  <a href="https://github.com/Vurv78/glink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=glink&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="glink">
+  <a href="https://github.com/Vurv78/LuaPro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vurv78&amp;repo=LuaPro&amp;hide_border=true&amp;bg_color=0000&amp;text_color=666666" alt="LuaPro">
   </a>
 </p>
 
